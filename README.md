@@ -1,6 +1,6 @@
 # NetStack: An End-to-End QoS-Aware Network Architecture Simulator
 
-NetStack is a modular C++ network emulator that demonstrates the complete lifecycle of data transmission across core tiers of the OSI networking model (simulating **Layers 2, 3, 4, and 7**). It unifies application-layer socket communication, reliable transport protocols, dynamic network routing, and link-layer Quality of Service (QoS) scheduling into a single end-to-end simulation framework. 
+NetStack is a modular C++ network emulator that demonstrates the complete lifecycle of data transmission across core tiers of the OSI networking model (simulating **Layers 2, 3, 4, and 7**) . It unifies application-layer socket communication, reliable transport protocols, dynamic network routing, and link-layer Quality of Service (QoS) scheduling into a single end-to-end simulation framework. 
 
 Specifically, NetStack covers the following OSI layers:
 *   **Application Layer (Layer 7):** Implements real OS-level socket communication and a two-stage TCP/UDP client-server negotiation protocol.
