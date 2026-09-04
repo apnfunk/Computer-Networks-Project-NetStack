@@ -9,7 +9,7 @@ Specifically, NetStack covers the following OSI layers:
 *   **Link Layer (Layer 2):** Manages multithreaded traffic generators and compares First-Come-First-Serve (FCFS) against Weighted Fair Queuing (WFQ) to optimize delay, drop rates, and Jain's Fairness Index.
 ---
 
-## Project Architecture
+## Project Architecture:
 
 ```text
 NetStack/
